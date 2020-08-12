@@ -8,5 +8,5 @@ jazz = Dog.new
 class Person
 end
 
-Brad = Person.new
+brad = Person.new
 patrick = Person.new
