@@ -3,10 +3,10 @@ end
 
 snoopy = Dog.new
 fido = Dog.new
-jazz = Dog.new
+lassie = Dog.new
 
 class Person
 end
 
-brad = Person.new
-patrick = Person.new
+adele_goldberg = Person.new
+alan_kay = Person.new
